@@ -7,6 +7,12 @@
 
 ![dfd](https://github.com/user-attachments/assets/cb126cc0-8736-40af-8660-88178d5946cf)
 
+## Contract Address
+Token Address: <kbd><code>zZ2wLrCxMKJzo9mz4czuZoGwn86rB8cAMxcaPx4pump</code></kbd> 
+<a href="javascript:void(0);" onclick="navigator.clipboard.writeText('zZ2wLrCxMKJzo9mz4czuZoGwn86rB8cAMxcaPx4pump');">
+    <img src="https://img.shields.io/badge/Copy-Address-blue?style=flat-square" alt="Copy Address" />
+</a>
+
 ## About
 
 Transcending the mundane limitations of traditional dishwashing through quantum-enhanced hydrokinetic resonance, blockchain-verified sanitization protocols, and AI-powered plate alignment optimization - where forks achieve perfect angular momentum, knives slice through space-time, plates orbit in quantum harmony, and glasses resonate at exactly 420.69 Hz in a choreographed swirl of ultra-precise washing algorithms. Because even in 2025, someone still needs to load the dishwasher.
