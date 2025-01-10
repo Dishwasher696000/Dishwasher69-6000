@@ -20,6 +20,8 @@ Transcending the mundane limitations of traditional dishwashing through quantum-
 - **Bio-Mimetic Steam Distribution**: 420% more efficient than traditional methods
 - **Web4.0-Ready Interface**: Metaverse-compatible with AR-enhanced loading guidance
 
+<img src="https://github.com/user-attachments/assets/87faa2e2-b70f-4631-952b-c6c28d0b99ff" width="50%">
+
 ## Technical Specifications
 
 ```typescript
@@ -38,6 +40,8 @@ class DishwasherMetrics {
 | Bubble Harmony Rating | 69.420 gigaBubbles/second | Verified |
 | Fork Confusion Rate | < 0.1% | In Superposition |
 | Quantum Entanglement | Perfect | Maybe |
+
+<img src="https://github.com/user-attachments/assets/04d3fad6-b7cb-444e-9302-0740c45ee903" width="50%">
 
 ## Hackathon Status
 
