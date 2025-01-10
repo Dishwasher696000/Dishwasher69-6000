@@ -5,7 +5,9 @@
 [![Website](https://img.shields.io/badge/Website-dishwasher69--6000.meme-blue)](https://dishwasher69-6000.meme/)
 ![Bubble Rating](https://img.shields.io/badge/Bubble%20Rating-69.420-blueviolet)
 
-![dfd](https://github.com/user-attachments/assets/cb126cc0-8736-40af-8660-88178d5946cf)
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/cb126cc0-8736-40af-8660-88178d5946cf" alt="dfd" width="50%">
+</p>
 
 ## Contract Address
 Token Address: <kbd><code>zZ2wLrCxMKJzo9mz4czuZoGwn86rB8cAMxcaPx4pump</code></kbd> 
@@ -26,7 +28,9 @@ Transcending the mundane limitations of traditional dishwashing through quantum-
 - **Bio-Mimetic Steam Distribution**: 420% more efficient than traditional methods
 - **Web4.0-Ready Interface**: Metaverse-compatible with AR-enhanced loading guidance
 
-<img src="https://github.com/user-attachments/assets/87faa2e2-b70f-4631-952b-c6c28d0b99ff" width="50%">
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/87faa2e2-b70f-4631-952b-c6c28d0b99ff" alt="dfd" width="50%">
+</p>
 
 ## Technical Specifications
 
@@ -47,7 +51,9 @@ class DishwasherMetrics {
 | Fork Confusion Rate | < 0.1% | In Superposition |
 | Quantum Entanglement | Perfect | Maybe |
 
-<img src="https://github.com/user-attachments/assets/04d3fad6-b7cb-444e-9302-0740c45ee903" width="50%">
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/04d3fad6-b7cb-444e-9302-0740c45ee903" alt="dfd" width="50%">
+</p>
 
 ## Hackathon Status
 
