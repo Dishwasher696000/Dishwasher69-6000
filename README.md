@@ -44,22 +44,23 @@ class DishwasherMetrics {
 ```
 Dear Dr. Professor McSplashy III,
 
-We regret to inform you that your application to HackMcTech 2025 has been rejected for the following reasons:
+We regret to inform you that your submission to Hackathon 2025, "Dishwasher69 6000," has been disqualified due to multiple violations of our guidelines for theoretical innovation. After thorough review, our committee found the following issues with your application:
 
-- Your project seems to be "just a dishwasher" with unnecessary quantum computing
-- Adding blockchain to kitchenware doesn't make it innovative
-- The AI component appears to just be "if spoon then flip()"
-- Water being "optional" raises concerns
-- Your quantum bubble calculations exceeded our universe's computational limits
+- Your project seems to function too effectively as an actual dishwasher rather than focusing on the purely theoretical realm.
+- Quantum computing and blockchain integration in kitchen appliances were deemed "innovative but existentially unnecessary."
+- The AI decision-making model appears to be glorified spoon-flipping (if spoon, then flip()).
+- The inclusion of a "Water Optional" feature prompted concerns about user safety and realism.
+- Your quantum bubble calculations exceeded the known computational limits of our universe, causing ripples in the space-time continuum.
 
-However, we are impressed by your creative use of buzzwords and have decided to award you:
+Despite these setbacks, we are genuinely impressed by your imaginative approach and have decided to present you with the following accolades:
+- "Most Unnecessarily Complex Solution to a Simple Problem"
+- "Best Use of Quantum Physics Where None Was Required"
+- "Most Innovative Way to Waste Water and Electricity"
 
-- Most Unnecessarily Complex Solution to a Simple Problem
-- Best Use of Quantum Physics Where None Was Required
-- Most Innovative Way to Waste Water and Electricity
+We encourage you to continue pushing the boundaries of impractical yet fascinating innovation. The Hackathon Committee remains hopeful for your future endeavors, perhaps in developing a blockchain-based microwave for inter-dimensional cooking or AI-driven toaster orchestration.
 
 Best regards,
-HackMcTech Committee
+Hackathon Committee
 ```
 
 ## Technology Stack
