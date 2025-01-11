@@ -12,7 +12,6 @@
 ## Contract Address
 Token Address: <kbd><code>zZ2wLrCxMKJzo9mz4czuZoGwn86rB8cAMxcaPx4pump</code></kbd> 
 <a href="javascript:void(0);" onclick="navigator.clipboard.writeText('zZ2wLrCxMKJzo9mz4czuZoGwn86rB8cAMxcaPx4pump');">
-    <img src="https://img.shields.io/badge/Copy-Address-blue?style=flat-square" alt="Copy Address" />
 </a>
 
 ## About
